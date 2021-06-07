@@ -13,7 +13,7 @@ pdf.set_margins(10,10,10)
 pdf.cell(60)
 
 # Title of the Report
-pdf.cell(50, 35, 'Sample Project')
+pdf.cell(50, 35, 'Specified Project')
 
 # Format for text in description
 pdf.set_font('Times', 'B', 16)
